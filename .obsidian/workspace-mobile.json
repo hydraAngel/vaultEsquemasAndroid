@@ -11,8 +11,12 @@
             "id": "d5b5d2a827ffaef1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -67,9 +71,17 @@
           "type": "bookmarks",
           "state": {}
         }
+      },
+      {
+        "id": "4ea4e81081c8d18d",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "right": {
     "id": "2133aa0ee4201210",
@@ -81,6 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Untitled.md"
+          }
         }
       }
     ],
@@ -124,5 +140,10 @@
     }
   },
   "active": "d5b5d2a827ffaef1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Context/spacesLastSync.log",
+    "Context"
+  ]
 }
